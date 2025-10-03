@@ -1,0 +1,9 @@
+{
+  "name": "AppMapler s.r.o.",
+  "description": "Aplikace pro evidenci technického stavu návěsů, včetně pneumatik, paliva, poškození a vybavení.",
+  "requestFramePermissions": [
+    "camera",
+    "geolocation"
+  ],
+  "prompt": ""
+}
